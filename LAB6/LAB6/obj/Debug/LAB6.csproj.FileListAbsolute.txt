@@ -1,0 +1,7 @@
+C:\Users\Việt Tùng\source\repos\LAB6\LAB6\bin\Debug\LAB6.exe.config
+C:\Users\Việt Tùng\source\repos\LAB6\LAB6\bin\Debug\LAB6.exe
+C:\Users\Việt Tùng\source\repos\LAB6\LAB6\bin\Debug\LAB6.pdb
+C:\Users\Việt Tùng\source\repos\LAB6\LAB6\obj\Debug\LAB6.csproj.AssemblyReference.cache
+C:\Users\Việt Tùng\source\repos\LAB6\LAB6\obj\Debug\LAB6.csproj.CoreCompileInputs.cache
+C:\Users\Việt Tùng\source\repos\LAB6\LAB6\obj\Debug\LAB6.exe
+C:\Users\Việt Tùng\source\repos\LAB6\LAB6\obj\Debug\LAB6.pdb

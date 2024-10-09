@@ -1,0 +1,7 @@
+C:\Users\Việt Tùng\source\repos\Lab_9\Lab_9\obj\Debug\Lab_9.csproj.AssemblyReference.cache
+C:\Users\Việt Tùng\source\repos\Lab_9\Lab_9\obj\Debug\Lab_9.csproj.CoreCompileInputs.cache
+C:\Users\Việt Tùng\source\repos\Lab_9\Lab_9\bin\Debug\Lab_9.exe.config
+C:\Users\Việt Tùng\source\repos\Lab_9\Lab_9\bin\Debug\Lab_9.exe
+C:\Users\Việt Tùng\source\repos\Lab_9\Lab_9\bin\Debug\Lab_9.pdb
+C:\Users\Việt Tùng\source\repos\Lab_9\Lab_9\obj\Debug\Lab_9.exe
+C:\Users\Việt Tùng\source\repos\Lab_9\Lab_9\obj\Debug\Lab_9.pdb
